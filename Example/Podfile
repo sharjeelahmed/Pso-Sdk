@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Pso-Sdk_Example' do
+  pod 'Pso-Sdk', :path => '../'
+
+  target 'Pso-Sdk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
