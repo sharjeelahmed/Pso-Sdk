@@ -1,0 +1,6 @@
+framework module Pods_Pso_Sdk_Example {
+  umbrella header "Pods-Pso-Sdk_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

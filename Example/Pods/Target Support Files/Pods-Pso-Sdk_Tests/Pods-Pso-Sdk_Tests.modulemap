@@ -1,0 +1,6 @@
+framework module Pods_Pso_Sdk_Tests {
+  umbrella header "Pods-Pso-Sdk_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

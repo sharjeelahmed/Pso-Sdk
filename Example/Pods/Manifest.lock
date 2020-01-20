@@ -1,0 +1,16 @@
+PODS:
+  - Pso-Sdk (0.1.0)
+
+DEPENDENCIES:
+  - Pso-Sdk (from `../`)
+
+EXTERNAL SOURCES:
+  Pso-Sdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Pso-Sdk: 66bbdedb463e68ce5a69ad3a11f78d8549544338
+
+PODFILE CHECKSUM: 3400342043052b0e44e5e2cfb961d69ce988b014
+
+COCOAPODS: 1.8.4

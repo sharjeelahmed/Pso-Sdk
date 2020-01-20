@@ -1,0 +1,22 @@
+{
+  "name": "Pso-Sdk",
+  "version": "0.1.0",
+  "summary": "A short description of Pso-Sdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sharjeelahmed/Pso-Sdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sharjeelahmed": "sharjeelahmed92@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sharjeelahmed/Pso-Sdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Pso-Sdk/Classes/**/*"
+}
